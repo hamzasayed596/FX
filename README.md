@@ -16,4 +16,4 @@ Program scans the range to find a valid interval.
 Binary search is applied to approximate the root.
 
 ## Usage
-You can just download the file "F(x).exe" and run it
+You can just download the file "fx.exe" and run it
