@@ -32,6 +32,7 @@ Binary search is applied to approximate the root.
 
 ## Usage
 You can just download the file "fx.exe" and run it.
+
 Then enter an equation which shoud equal to 0. 
 Example:-
 2x-4 (true).
