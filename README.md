@@ -38,4 +38,4 @@ Example:-
 2x=4 (false)
 Then enter the range which are two numbers you want to find the root between
 Example:-
--100 100 (the left should be smaller than the right)
+100 1000 (the left should be smaller than the right)
