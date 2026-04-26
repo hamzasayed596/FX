@@ -32,3 +32,10 @@ Binary search is applied to approximate the root.
 
 ## Usage
 You can just download the file "fx.exe" and run it
+Then enter an equation which shoud equal to 0. 
+Example:-
+2x-4 (true)
+2x=4 (false)
+Then enter the range which are two numbers you want to find the root between
+Example:-
+-100 100 (the left should be smaller than the right)
