@@ -155,4 +155,7 @@ int main() {
     double ans = (l + r) / 2.0;
     if (abs(ans - round(ans)) < 1e-6) cout << "\nX = " << (ll)round(ans) << "\n";
     else cout << "\nX ~ " << fixed << setprecision(10) << ans << "\n";
+    cout << "\nPress Enter to exit...";
+    cin.ignore();
+    cin.get();
 }
